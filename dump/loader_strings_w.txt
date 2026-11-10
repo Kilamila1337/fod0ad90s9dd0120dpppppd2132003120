@@ -1,0 +1,139 @@
+\\?\\\?\UNC\
+\\?\UNC\/////////
+********
+_#$%&'()*
+#'+/37;?
+kCopyright 2016 The Inter Project Authors (https://github.com/rsms/inter)InterRegular4.001;git-66647c0bb;RSMS;Inter-Regular-RegularInter RegularVersion 4.001;git-66647c0bbInter-RegularInter UI and Inter is a trademark of rsms.rsmsRasmus Anderssonhttps://rsms.me/This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.orghttps://openfontlicense.orgOptical sizeWeightOpen digitsDisambiguationRound quotes & commasDisambiguation (no slashed zero)Circled charactersSquared charactersSquare punctuationSquare quotesAlternate oneOpen fourOpen sixOpen nineLower-case L with tailSimplified uAlternate sharp sUpper-case i with serifFlat-top threeCapital G with spurSingle-story aCompact fCompact tAlternate capital sharp SThinExtraLightLightMediumSemiBoldBoldExtraBoldBlackOptical Size14pt16pt17pt18pt20pt24pt28ptItalicRoman
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+RR;T\<zzE
+AQBQCQDQEQFQGQHQTQUQVQWQXQYQZQ[Q\Q]Q^Q_Q`QaQbQcQdQeQfQgQhQiQjQkQlQmQnQoQpQqQrQsQtQuQvQwQxQyQ{Q
+ !"#$%&'(
+ !"#$%&'(
+ !"#$%&'(
+ !"#$%&'(
+ BCNWXcfqx
+ BCNWXcfqx
+".:FR^jv
+ '.6>GPZdoz
+#+3;CScs
+.recovery
+healthbar_enemy
+healthbar_ally
+text_shadow
+widgets_shadow
+primary_widgets_text
+active_widgets_text
+section_group_text
+search_text
+primary_first_tab_text
+third_tab_text
+primary_second_tab_text
+Failed to create input layout
+.umbrella-icons
+hero_tab_filter_separator
+selector_hover
+Failed to create vertex buffer
+Failed to create index buffer
+popup_border
+Failed to create vertex shader
+Failed to create pixel shader
+Failed to compile pixel shader
+Failed to get GDI interop
+healthbar_roshan
+multiselect_item
+combo_item
+Failed to load DWrite.dll
+d3dcompiler_47.dll
+original
+Failed to create brush
+input_text_bg
+scrollbar_bg
+healthbar_self
+0123456789abcdef
+indication_inactive
+selector_active
+indication_active
+combo_item_active
+slider_background_active
+keybind_background_active
+slider_grab_active
+SimOblique
+Failed to create sampler state
+Failed to create blend state
+group_outline
+search_outline
+combo_frame
+disabled_switch_circle
+!x-sys-default-locale
+left_tabs_background
+selected_tabs_background
+selector_background
+hero_tab_filter_background
+slider_background
+popup_background
+group_background
+button_background
+main_background
+additional_background
+disabled_switch_background
+enabled_switch_background
+button_active_background
+keybind_background
+\Device\Afd
+multiselect_item_selected
+DWriteCreateFactory failed
+initRenderTarget failed
+initGlyphSheet failed
+GetCurrentObject failed
+GetObject failed
+initRenderResources failed
+initGlyphAtlas failed
+initVertexDrawer failed
+initTextRenderer failed
+initFontWrapper failed
+initGlyphProvider failed
+GetSystemFontCollection failed
+slider_grab
+\\?\UNC\
+\\?\GLOBALROOT
+Failed to get render target DC
+.umbrella-migration-
+.umbrella-
+<>:"/\|?*
+--product 
+Failed to load 
+Failed to load DWriteCreateFactory
+Failed to create bitmap render target
+Failed to create DWrite text format
+Failed to create rendering params
+SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces
+SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters\Interfaces
+Failed to create constant buffer
+Failed to create shader resource view for glyph coord buffer
+Failed to create glyph coord buffer
+Failed to create input layout for geometry shader
+Failed to create clipping geometry shader
+Failed to compile clipping geometry shader
+Failed to create geometry shader
+Failed to compile geometry shader
+Failed to create empty vertex shader
+Failed to compile empty vertex shader
+Failed to create clipping vertex shader
+Failed to compile clipping vertex shader
+Failed to compile vertex shader
+Failed to create clipping pixel shader
+Failed to compile clipping pixel shader
+Failed to create rasterizer state
+Failed to create depth stencil state
+Failed to create shader resource view for glyph sheet texture
+Failed to create glyph sheet texture
+Failed to load D3DCompile from 
+Wow6432Node
+\REGISTRY\MACHINE\SOFTWARE\Classes
+\REGISTRY\USER
+\Registry\Machine\Software\Classes\
+ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+mscoree.dll
+         (((((                  H
+         h((((                  H
+                                 H

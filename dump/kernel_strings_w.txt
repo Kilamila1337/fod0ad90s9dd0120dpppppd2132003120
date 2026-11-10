@@ -1,0 +1,191 @@
+ !"#$%&'()*+,-./0123456789:;<=>?@-
+ABCDEFAGCHIFDBCDGCJBKFJELMJGKFJBCJGCJEFNBOFNEPMNQOFNGOFRJCSJCTIFRJKFUJKFSJKFTILMVWXWYZC[W\W]^CD_FAC`OFabLMAcPMAdFeDfCDgCJfCJgCJfKFJgKFhEFiadjkNfOFNgOFNlOFmJKFnJKFoJKFmJCoJCWZpFJEFqrZsZtuvkwuvk]exyzpJELkHILMad{kN|OF}JKFzpLJELM~
+8888888888888888
+!!!!!!!!
+LLLLLLLL
+         (((((                  H
+         (((((                  H
+      (                          
+UTF-16LEUNICODE
+xxxxxxxx2
+Umbrella
+////////\\?\UNC\
+ABCDEFGHIJKLMNOPQRSTUVWXYZbcdefghijklmnopqrstuvwxyz1234567890
+#+3;CScs
+\RPC Control\ClipServiceTransportEndpoint-00001
+23456789:;<=>?@ABCDEFGHX
+WWWWWWWWWWWW
+D4@@@D;;;;;;;22
+0123456789ABCDEF
+ '.6>GPZdoz
+@@@@@@@@@hHHHH@@@@@@@@@@@@@@@@@@
+%)+/5;=CGIOSYaegkmq
+Service-0x
+OPENSSL_ia32cap
+KERNEL32.DLL
+OpenSSL: FATAL
+OPENSSL_WIN32_UTF8
+english-nz
+dddd, MMMM dd, yyyy
+MM/dd/yy
+February
+spanish-uruguay
+spanish-paraguay
+Thursday
+Wednesday
+Saturday
+spanish-peru
+english-aus
+english-us
+german-swiss
+italian-swiss
+french-swiss
+HH:mm:ss
+united-states
+spanish-honduras
+Exception Error
+spanish-el salvador
+spanish-ecuador
+UmbrellaLoader
+November
+September
+December
+english-trinidad y tobago
+trinidad & tobago
+puerto-rico
+spanish-puerto rico
+uz-uz-latn
+az-az-latn
+sr-sp-latn
+bs-ba-latn
+sr-ba-latn
+uz-UZ-Latn
+az-AZ-Latn
+sr-SP-Latn
+bs-BA-Latn
+sr-BA-Latn
+spanish-modern
+german-lichtenstein
+great britain
+german-austrian
+portuguese-brazilian
+australian
+dutch-belgian
+french-belgian
+norwegian
+french-canadian
+canadian
+english-caribbean
+spanish-mexican
+english-american
+english-can
+united-kingdom
+uz-uz-cyrl
+az-az-cyrl
+sr-sp-cyrl
+sr-ba-cyrl
+uz-UZ-Cyrl
+az-AZ-Cyrl
+sr-SP-Cyrl
+sr-BA-Cyrl
+ntdll.dll
+mscoree.dll
+kernel32.dll
+chinese-traditional
+norwegian-bokmal
+english-uk
+norwegian-nynorsk
+american-english
+irish-english
+american english
+german-luxembourg
+french-luxembourg
+chinese-hongkong
+hong-kong
+english-belize
+kernelbase
+chinese-singapore
+english-ire
+spanish-chile
+!_is_double
+_is_double
+!x-sys-default-locale
+protected_storage
+swedish-finland
+new-zealand
+chinese-simplified
+spanish-dominican republic
+spanish-nicaragua
+english-usa
+spanish-argentina
+pr-china
+pr china
+spanish-panama
+spanish-venezuela
+spanish-guatemala
+spanish-bolivia
+spanish-colombia
+south-korea
+south korea
+south-africa
+english-south africa
+spanish-costa rica
+english-jamaica
+\\?\UNC\
+LC_MONETARY
+\\?\GLOBALROOT
+%Y-%m-%d-%H-%M-%S
+LC_COLLATE
+LC_CTYPE
+MachineID
+LC_NUMERIC
+api-ms-win-core-file-l1-2-4
+api-ms-win-core-file-l2-1-4
+kernel32
+advapi32
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-fibers-l1-1-2
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-string-l1-1-0
+__crt_strtox::floating_point_value::as_float
+api-ms-win-core-synch-l1-2-0.dll
+minkernel\crts\ucrt\inc\corecrt_internal_strtox.h
+__crt_strtox::floating_point_value::as_double
+SOFTWARE\Microsoft\Cryptography\Protect\Data
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-appmodel-runtime-l1-1-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-localization-obsolete-l1-2-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+ERROR : Unable to initialize critical section in CAtlBaseModule
+~~~~~~~~~~~~~~~~
+JJ@SSijSS*
++SSSSSSSSSSkSS
+NP]Phggo
+XZxtt\sZ
+J@JHKIMO_O
+WY[YMQOHI^I
+    @@@@
+        @@@@@@@@
+    @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@
+        PPPPPPPPPPPP
+@@@@@@@@
+00PPPPP@@@@        
+Wow6432Node
+\REGISTRY\MACHINE\SOFTWARE\Classes
+\REGISTRY\USER
+\Registry\Machine\Software\Classes\
+ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+mscoree.dll
+         (((((                  H
+         h((((                  H
+                                 H

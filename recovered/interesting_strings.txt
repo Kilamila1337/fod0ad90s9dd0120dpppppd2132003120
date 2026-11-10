@@ -1,0 +1,641 @@
+00007ff7d6dc370b 0013370b a Update FH
+00007ff7d6ddcbf0 0014cbf0 a AuthentiH
+00007ff7d6e3a02d 001aa02d a  appdataH
+00007ff7d6eb221c 0022221c a http_staL1
+00007ff7d6eb22d2 002222d2 a http_staH1
+00007ff7d6f0f34d 0027f34d a /api/useH
+00007ff7d6f45e01 002b5e01 a  sessionH
+00007ff7d6f475cf 002b75cf a HWID resH
+00007ff7d6f47e3a 002b7e3a a UnfreezeH
+00007ff7d6f6bf11 002dbf11 a e_freezeH1
+00007ff7d710b426 0047b426 a HTTPE1
+00007ff7d711441b 0048441b a http/1.1H9
+00007ff7d71b1f4f 00521f4f a AuthentiH1
+00007ff7d71dbbf0 0054bbf0 a Utf8Errorvalid_up_toerror_lenNoneSome
+00007ff7d71dc588 0054c588 a http://www.w3.org/TR/SVG11/feature#SVGDOM-statichttp://www.w3.org/TR/SVG11/feature#SVG-statichttp://www.w3.org/TR/SVG11/feature#CoreAttributehttp://www.w3.org/TR/SVG11/feature#Structurehttp://www.w3.org/TR/SVG11/feature#BasicStructurehttp://www.w3.org/TR/SVG11/feature#ContainerAttributehttp://www.w3.org/TR/SVG11/feature#ConditionalProcessinghttp://www.w3.org/TR/SVG11/feature#Imagehttp://www.w3.org/TR/SVG11/feature#Stylehttp://www.w3.org/TR/SVG11/feature#Shapehttp://www.w3.org/TR/SVG11/feature#Texthttp://www.w3.org/TR/SVG11/feature#BasicTexthttp://www.w3.org/TR/SVG11/feature#PaintAttributehttp://www.w3.org/TR/SVG11/feature#BasicPaintAttributehttp://www.w3.org/TR/SVG11/feature#OpacityAttributehttp://www.w3.org/TR/SVG11/feature#GraphicsAttributehttp://www.w3.org/TR/SVG11/feature#BasicGraphicsAttributehttp://www.w3.org/TR/SVG11/feature#Markerhttp://www.w3.org/TR/SVG11/feature#Gradienthttp://www.w3.org/TR/SVG11/feature#Patternhttp://www.w3.org/TR/SVG11/feature#Cliphttp://www.w3.org/TR/SVG11/feature#BasicCliphttp://www.w3.org/TR/SVG11/feature#Maskhttp://www.w3.org/TR/SVG11/feature#Filterhttp://www.w3.org/TR/SVG11/feature#BasicFilterhttp://www.w3.org/TR/SVG11/feature#XlinkAttributecrates\usvg\src\parser\svgtree\mod.rs
+00007ff7d71dceac 0054ceac a crates\usvg\src\parser\paint_server.rs
+00007ff7d71dced3 0054ced3 a usvg::parser::paint_server
+00007ff7d71dd458 0054d458 a alignment-baselinefxtargetYclip-pathlengthAdjustmask-sizeunicode-bidizfont-variant-numericclip-rulefontgradientUnitsstylefont-stretchinterceptmask-border-sliceyxChannelSelectornumOctavesx1fill-ruleimage-renderingsurfaceScaleseedmix-blend-modepathmask-border-repeattransformstrokerefXtext-orientationline-heightdisplaykerningtransform-originshape-subtractwidthstroke-miterlimitdytext-decoration-colorwhite-spacediffuseConstanttext-decoration-strokevaluesfont-sizeshape-image-thresholdhrefcymask-imageunicode-rangespecularConstantbaseline-shiftk3text-anchormask-border-moderequiredFeaturescolor-renderingamplitudemask-border-widthstroke-linecappaint-orderlighting-colordxmarkerWidthscaleidcolorin2targetXdirectionpointsAtXstitchTilespatternUnitsshape-paddingk2font-optical-sizingk4vector-effectmask-compositestroke-widthfont-variation-settingsmask-border-outsetinstroke-linejoinstop-opacityinline-sizemask-typefilterUnitscolor-profilespacetext-decoration-fillfont-kerningoffsetpointsAtZtext-alignclipy1mask-originmask-modeyChannelSelectorfont-variant-capsmarker-midshape-renderingtext-renderingfill-opacityword-spacingfillmask-clipfont-feature-settingsradiuskernelMatrixkernelUnitLengthmask-border-sourcek1maskopacitymarkerUnitsvisibilityspreadMethodpointsAtYdslopesidetableValuesordertext-align-lastfont-size-adjustrotateshape-marginlimitingConeAnglefont-weighttext-decoration-linestop-colorrequiredExtensionsenable-backgroundsystemLanguageclipPathUnitsstroke-dashoffsetryoverflowclassmask-borderspecularExponenttext-decorationstartOffsetstroke-dasharrayfrmask-positionwriting-modefont-synthesisisolationrxbiasmarkerHeightedgeModerstroke-opacitymaskContentUnitsheightfont-variant-positionoperatorfont-familyfydominant-baseliney2shape-insideletter-spacingazimuthstdDeviationflood-colorflood-opacitytypefont-variant-east-asianpointsrefYtext-underline-positionpatternContentUnitsbaseFrequencycolor-interpolationfont-variant-ligaturesfont-stylefiltertext-decoration-stylepreserveAlphamodedivisorcxpatternTransformbackground-colorpreserveAspectRatiogradientTransformx2pathLengthmarker-startglyph-orientation-horizontalmaskUnitstextLengthviewBoxtext-overflowglyph-orientation-verticalresultprimitiveUnitsexponentxfont-variantelevationcolor-interpolation-filterstext-indentmarker-endtransform-boxorient
+00007ff7d71e0820 00550820 a C:/Users/koval/Documents/umbrella-loader-frontend/cmake-build-relwithdebinfo-clang/_deps/libpsl_src-src/list/public_suffix_list.dat
+00007ff7d71ef8f8 0055f8f8 a http://www.w3.org/1999/xlinkhref
+00007ff7d71efa40 0055fa40 a .w3.org/2000/svghttp://www.w3.or3.org/1999/xlinkC:\Users\koval\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\roxmltree-0.21.1\src\lib.rs
+00007ff7d71efae8 0055fae8 a http://www.w3.org/1999/xlinkhttp://www.w3.org/2000/svgcrates\usvg\src\parser\svgtree\mod.rs
+00007ff7d71efb60 0055fb60 a baselinelinearRGBltrinlinenonzeromediumvisibleblack0buttmiter41startnoneautonormallr-tbhttp://www.w3.org/XML/1998/namespacecrates\usvg\src\parser\svgtree\parse.rs
+00007ff7d71f1158 00561158 a Utf8Errorvalid_up_toerror_lenNoneSome
+00007ff7d71f19f4 005619f4 a crates\usvg\src\parser\paint_server.rs
+00007ff7d71f1b21 00561b21 a usvg::parser::paint_server
+00007ff7d71f22a8 005622a8 a internal error: entered unreachable code: should be already checked by the tokenizer
+00007ff7d71f234d 0056234d a C:\Users\koval\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\roxmltree-0.21.1\src\tokenizer.rs
+00007ff7d71f23d0 005623d0 a http://www.w3.org/XML/1998/namespacexml
+00007ff7d71f3258 00563258 a Utf8Errorvalid_up_toerror_lenC:\Users\koval\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\svgtypes-0.16.1\src\stream.rs
+00007ff7d71f7758 00567758 a Utf8Errorvalid_up_toerror_lenNone
+00007ff7d71f9d28 00569d28 a Utf8Errorvalid_up_toerror_leninvalid seek to a negative or overflowing position
+00007ff7d71fa458 0056a458 a Utf8Errorvalid_up_toerror_len
+00007ff7d71fa490 0056a490 a C:\Users\koval\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\roxmltree-0.21.1\src\tokenizer.rs
+00007ff7d71fdfa0 0056dfa0 a pdb_symbols_fetcpdb_symbols_not_
+00007ff7d71fe800 0056e800 a has_active_subscno_global_freezeff
+00007ff7d71ffb40 0056fb40 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7204ed0 00574ed0 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7206440 00576440 a <svg width="30" height="13" viewBox="0 0 30 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7206890 00576890 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7206e20 00576e20 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7207180 00577180 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7207970 00577970 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7208400 00578400 a <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7208700 00578700 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7208ad0 00578ad0 a <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7208bb0 00578bb0 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7208fc0 00578fc0 a <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7209190 00579190 a <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7209340 00579340 a <svg width="120" height="120" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7209ba0 00579ba0 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7209c70 00579c70 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7209ef0 00579ef0 a <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720a890 0057a890 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720be20 0057be20 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720c7e0 0057c7e0 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720cd70 0057cd70 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720da20 0057da20 a <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+00007ff7d720db30 0057db30 a <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720dfd0 0057dfd0 a <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720e520 0057e520 a <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d720eb28 0057eb28 a <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 1024 1024">
+00007ff7d72138e0 005838e0 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7213ee0 00583ee0 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7214000 00584000 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7214a80 00584a80 a <svg width="10" height="13" viewBox="0 0 10 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7214ce0 00584ce0 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d72165f0 005865f0 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7216740 00586740 a <svg width="5" height="8" viewBox="0 0 320 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d72167a1 005867a1 a     <!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
+00007ff7d72169b0 005869b0 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7216c10 00586c10 a <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7217020 00587020 a <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7217500 00587500 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d721a6c0 0058a6c0 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d721ab4f 0058ab4f a C<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d721ad50 0058ad50 a <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+00007ff7d7249387 005b9387 w kCopyright 2016 The Inter Project Authors (https://github.com/rsms/inter)InterRegular4.001;git-66647c0bb;RSMS;Inter-Regular-RegularInter RegularVersion 4.001;git-66647c0bbInter-RegularInter UI and Inter is a trademark of rsms.rsmsRasmus Anderssonhttps://rsms.me/This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.orghttps://openfontlicense.orgOptical sizeWeightOpen digitsDisambiguationRound quotes & commasDisambiguation (no slashed zero)Circled charactersSquared charactersSquare punctuationSquare quotesAlternate oneOpen fourOpen sixOpen nineLower-case L with tailSimplified uAlternate sharp sUpper-case i with serifFlat-top threeCapital G with spurSingle-story aCompact fCompact tAlternate capital sharp SThinExtraLightLightMediumSemiBoldBoldExtraBoldBlackOptical Size14pt16pt17pt18pt20pt24pt28ptItalicRoman
+00007ff7d724cac7 005bcac7 a _part.tcurl_base
+00007ff7d72b7db4 00627db4 a 4PdB
+00007ff7d72f1868 00661868 a   "Couldn't fetch symbols from the server.": "Couldn't fetch symbols from the server.",
+00007ff7d72f18c1 006618c1 a   "Authorization": "Authorization",
+00007ff7d72f1901 00661901 a   "Login": "Login",
+00007ff7d72f1971 00661971 a   "Quick login": "Quick login",
+00007ff7d72f1afd 00661afd a   "Discord": "Discord",
+00007ff7d72f1b46 00661b46 a   "Update Failure": "Update Failure",
+00007ff7d72f1b6d 00661b6d a   "Failed to download update": "The update could not be downloaded. Please try again.",
+00007ff7d72f1d6e 00661d6e a   "HWID reset": "HWID reset",
+00007ff7d72f1ddf 00661ddf a   "Subscription expired on": "Subscription expired on ",
+00007ff7d72f1e19 00661e19 a   "Subscription valid until": "Subscription valid until ",
+00007ff7d72f1e55 00661e55 a   "Update": "Update",
+00007ff7d72f2007 00662007 a   "failed to init appdata": "failed to init appdata",
+00007ff7d72f203e 0066203e a   "checking for updates": "checking for updates",
+00007ff7d72f2131 00662131 a   "Authenticating": "Authenticating",
+00007ff7d72f2158 00662158 a   "Try without updates": "Try without updates",
+00007ff7d72f2328 00662328 a   "failed to check for updates: {}": "failed to check for updates: {}",
+00007ff7d72f2371 00662371 a   "failed to parse updates response: {}": "failed to parse updates response: {}",
+00007ff7d72f254a 0066254a a   "This is a safe demonstration. Yes continues the task, No reports a decline, and closing this dialog cancels. No product will be launched.": "This is a safe demonstration. Yes continues the task, No reports a decline, and closing this dialog cancels. No product will be launched.",
+00007ff7d72f2824 00662824 a   "Enter the 6-digit code from your authenticator app to continue.": "Enter the 6-digit code from your authenticator app to continue.",
+00007ff7d72f29b0 006629b0 a   "Could not connect. Change server or try again later.": "Could not connect. Change server or try again later.",
+00007ff7d72f2b00 00662b00 a   "No access to authenticator?": "No access to authenticator?",
+00007ff7d72f2c0b 00662c0b a   "Google Authenticator": "Google Authenticator",
+00007ff7d72f2de1 00662de1 a   "No subscription": "No subscription",
+00007ff7d72f2e0a 00662e0a a   "Frozen subscription": "Subscription frozen",
+00007ff7d72f2e3b 00662e3b a   "Subscription until": "Subscription until ",
+00007ff7d72f2e6b 00662e6b a   "Purchase subscription": "Purchase subscription",
+00007ff7d72f2ec4 00662ec4 a   "Update from": "Update from ",
+00007ff7d72f2f3d 00662f3d a   "Confirm unfreeze": "Confirm unfreeze",
+00007ff7d72f2f68 00662f68 a   "Confirm subscription freeze": "Confirm subscription freeze",
+00007ff7d72f2fa9 00662fa9 a   "Your subscriptions will be frozen until {}.": "Your subscriptions will be frozen until {}.",
+00007ff7d72f300a 0066300a a   "Freezing applies to all products on this subscription.": "Confirm the action to freeze subscriptions for all products.",
+00007ff7d72f3087 00663087 a   "Launch access will pause while your subscription is frozen. Your remaining subscription time will be preserved.": "Launch access will pause while your subscription is frozen. Your remaining subscription time will be preserved.",
+00007ff7d72f3170 00663170 a   "Freeze": "Freeze",
+00007ff7d72f3187 00663187 a   "Subscription freeze is not connected to the backend yet.": "Subscription freeze is not connected to the backend yet.",
+00007ff7d72f3202 00663202 a   "Your subscriptions are frozen until {}.": "Your subscriptions are frozen until {}.",
+00007ff7d72f325b 0066325b a   "Unfreezing applies to all products on this subscription.": "Unfreezing applies to all products on this subscription.",
+00007ff7d72f32d6 006632d6 a   "You can freeze the subscription again after the next eligibility date.": "You can freeze the subscription again after the next eligibility date.",
+00007ff7d72f336d 0066336d a   "Next freeze available from {}.": "Next freeze available from {}.",
+00007ff7d72f3425 00663425 a   "Unfreeze": "Unfreeze",
+00007ff7d72f3440 00663440 a   "Unfreeze ({})": "Unfreeze ({})",
+00007ff7d72f35cf 006635cf a   "A device change was detected. This can happen after replacing components or changing your system or computer configuration.": "A device change was detected. This can happen after replacing components or changing your system or computer configuration.",
+00007ff7d72f36d0 006636d0 a   "To continue, reset your current HWID binding. You can reset it once every 24 hours.": "To continue, reset your current HWID binding. You can reset it once every 24 hours.",
+00007ff7d72f38a8 006638a8 a   "Current session": "Current session",
+00007ff7d72f3908 00663908 a   "Steam": "Steam",
+00007ff7d72f3c02 00663c02 a   "Freezing pauses all active non-trial subscriptions for 14 days.": "Freezing pauses all active non-trial subscriptions for 14 days.",
+00007ff7d72f3c8b 00663c8b a   "Unfreezing resumes all manually frozen subscriptions.": "Unfreezing resumes all manually frozen subscriptions.",
+00007ff7d72f3d00 00663d00 a   "Freeze availability is determined by your account eligibility.": "Freeze availability is determined by your account eligibility.",
+00007ff7d72f3d87 00663d87 a   "No active subscription freeze.": "No active subscription freeze.",
+00007ff7d72f3dce 00663dce a   "Freeze cooldown has passed.": "Freeze cooldown has passed.",
+00007ff7d72f3e0f 00663e0f a   "Has active subscriptions.": "Has active subscriptions.",
+00007ff7d72f3e4c 00663e4c a   "Subscription duration is at least {} days.": "Subscription duration is at least {} days.",
+00007ff7d72f3eab 00663eab a   "No global freeze.": "No global freeze.",
+00007ff7d72f3fac 00663fac a   "Freeze is unavailable for this account.": "Freeze is unavailable for this account.",
+00007ff7d72f4214 00664214 a   "You already have a lifetime subscription.": "You already have a lifetime subscription.",
+00007ff7d72f4271 00664271 a   "Your existing subscription lasts longer than this promocode allows.": "Your existing subscription lasts longer than this promocode allows.",
+00007ff7d72f4343 00664343 a   "This promocode cannot be used with a trial subscription.": "This promocode cannot be used with a trial subscription.",
+00007ff7d72f4470 00664470 a   "No servers are available. Please try again later.": "No servers are available. Please try again later.",
+00007ff7d72f44dd 006644dd a   "The selected server is unavailable. Please choose another server.": "The selected server is unavailable. Please choose another server.",
+00007ff7d72f47e8 006647e8 a   "Device verification failed. Please restart the app and sign in again.": "Device verification failed. Please restart the app and sign in again.",
+00007ff7d72f487d 0066487d a   "Your session has expired. Please sign in again.": "Your session has expired. Please sign in again.",
+00007ff7d72f493b 0066493b a   "Too many active sessions. Please sign out on another device.": "Too many active sessions. Please sign out on another device.",
+00007ff7d72f49be 006649be a   "This verification method is already configured.": "This verification method is already configured.",
+00007ff7d72f5106 00665106 a   "No active subscriptions are available to freeze.": "No active subscriptions are available to freeze.",
+00007ff7d72f5171 00665171 a   "Trial subscriptions cannot be frozen.": "Trial subscriptions cannot be frozen.",
+00007ff7d72f51c6 006651c6 a   "Your subscription is too short to freeze.": "Your subscription is too short to freeze.",
+00007ff7d72f5223 00665223 a   "Please wait before freezing your subscriptions again.": "Please wait before freezing your subscriptions again.",
+00007ff7d72f5298 00665298 a   "Your subscriptions are already frozen.": "Your subscriptions are already frozen.",
+00007ff7d72f52ef 006652ef a   "Subscription freeze is unavailable during a global freeze.": "Subscription freeze is unavailable during a global freeze.",
+00007ff7d72f54a4 006654a4 a   "Couldn't fetch symbols from the server.": "
+00007ff7d72f551e 0066551e a   "Authorization": "
+00007ff7d72f5573 00665573 a   "Login": "
+00007ff7d72f55fb 006655fb a   "Quick login": "
+00007ff7d72f580c 0066580c a   "Discord": "
+00007ff7d72f586f 0066586f a   "Update Failure": "
+00007ff7d72f58a9 006658a9 a   "Failed to download update": "
+00007ff7d72f5b69 00665b69 a   "HWID reset": "
+00007ff7d72f5c22 00665c22 a   "Subscription expired on": "
+00007ff7d72f5c64 00665c64 a   "Subscription valid until": "
+00007ff7d72f5cb8 00665cb8 a   "Update": "
+00007ff7d72f5f0a 00665f0a a   "failed to init appdata": "
+00007ff7d72f5f74 00665f74 a   "checking for updates": "
+00007ff7d72f60d3 006660d3 a   "Authenticating": "
+00007ff7d72f6102 00666102 a   "Try without updates": "
+00007ff7d72f638b 0066638b a   "failed to check for updates: {}": "
+00007ff7d72f63f4 006663f4 a   "failed to parse updates response: {}": "
+00007ff7d72f66ed 006666ed a   "This is a safe demonstration. Yes continues the task, No reports a decline, and closing this dialog cancels. No product will be launched.": "
+00007ff7d72f6b25 00666b25 a   "Enter the 6-digit code from your authenticator app to continue.": "
+00007ff7d72f6d81 00666d81 a   "Could not connect. Change server or try again later.": "
+00007ff7d72f6f69 00666f69 a   "No access to authenticator?": "
+00007ff7d72f70fa 006670fa a   "Google Authenticator": "Google Authenticator",
+00007ff7d72f7374 00667374 a   "No subscription": "
+00007ff7d72f73b5 006673b5 a   "Frozen subscription": "
+00007ff7d72f73f8 006673f8 a   "Subscription until": "
+00007ff7d72f742b 0066742b a   "Purchase subscription": "
+00007ff7d72f74a1 006674a1 a   "Update from": "
+00007ff7d72f753b 0066753b a   "Confirm unfreeze": "
+00007ff7d72f7581 00667581 a   "Confirm subscription freeze": "
+00007ff7d72f75d0 006675d0 a   "Your subscriptions will be frozen until {}.": "
+00007ff7d72f7648 00667648 a   "Freezing applies to all products on this subscription.": "
+00007ff7d72f7700 00667700 a   "Launch access will pause while your subscription is frozen. Your remaining subscription time will be preserved.": "
+00007ff7d72f7829 00667829 a   "Freeze": "
+00007ff7d72f784e 0066784e a   "Subscription freeze is not connected to the backend yet.": "
+00007ff7d72f78ea 006678ea a   "Your subscriptions are frozen until {}.": "
+00007ff7d72f7953 00667953 a   "Unfreezing applies to all products on this subscription.": "
+00007ff7d72f7a10 00667a10 a   "You can freeze the subscription again after the next eligibility date.": "
+00007ff7d72f7acd 00667acd a   "Next freeze available from {}.": "
+00007ff7d72f7bce 00667bce a   "Unfreeze": "
+00007ff7d72f7bf7 00667bf7 a   "Unfreeze ({})": "
+00007ff7d72f7e63 00667e63 a   "A device change was detected. This can happen after replacing components or changing your system or computer configuration.": "
+00007ff7d72f7fda 00667fda a   "To continue, reset your current HWID binding. You can reset it once every 24 hours.": "
+00007ff7d72f8074 00668074 a  HWID-
+00007ff7d72f8243 00668243 a   "Current session": "
+00007ff7d72f82c9 006682c9 a   "Steam": "Steam",
+00007ff7d72f86ef 006686ef a   "Freezing pauses all active non-trial subscriptions for 14 days.": "
+00007ff7d72f87bc 006687bc a   "Unfreezing resumes all manually frozen subscriptions.": "
+00007ff7d72f886b 0066886b a   "Freeze availability is determined by your account eligibility.": "
+00007ff7d72f891f 0066891f a   "No active subscription freeze.": "
+00007ff7d72f8984 00668984 a   "Freeze cooldown has passed.": "
+00007ff7d72f89fb 006689fb a   "Has active subscriptions.": "
+00007ff7d72f8a4a 00668a4a a   "Subscription duration is at least {} days.": "
+00007ff7d72f8ab9 00668ab9 a   "No global freeze.": "
+00007ff7d72f8c36 00668c36 a   "Freeze is unavailable for this account.": "
+00007ff7d72f8f66 00668f66 a   "You already have a lifetime subscription.": "
+00007ff7d72f8fda 00668fda a   "Your existing subscription lasts longer than this promocode allows.": "
+00007ff7d72f9103 00669103 a   "This promocode cannot be used with a trial subscription.": "
+00007ff7d72f92ae 006692ae a   "No servers are available. Please try again later.": "
+00007ff7d72f9336 00669336 a   "The selected server is unavailable. Please choose another server.": "
+00007ff7d72f9732 00669732 a   "Device verification failed. Please restart the app and sign in again.": "
+00007ff7d72f980c 0066980c a   "Your session has expired. Please sign in again.": "
+00007ff7d72f990f 0066990f a   "Too many active sessions. Please sign out on another device.": "
+00007ff7d72f99db 006699db a   "This verification method is already configured.": "
+00007ff7d72fa3b5 0066a3b5 a   "No active subscriptions are available to freeze.": "
+00007ff7d72fa433 0066a433 a   "Trial subscriptions cannot be frozen.": "
+00007ff7d72fa4a5 0066a4a5 a   "Your subscription is too short to freeze.": "
+00007ff7d72fa52e 0066a52e a   "Please wait before freezing your subscriptions again.": "
+00007ff7d72fa5cb 0066a5cb a   "Your subscriptions are already frozen.": "
+00007ff7d72fa632 0066a632 a   "Subscription freeze is unavailable during a global freeze.": "
+00007ff7d72fa7e5 0066a7e5 a   "Couldn't fetch symbols from the server.": "
+00007ff7d72fa838 0066a838 a   "Authorization": "
+00007ff7d72fa86f 0066a86f a   "Login": "
+00007ff7d72fa8e5 0066a8e5 a   "Quick login": "
+00007ff7d72faa6d 0066aa6d a   "Discord": "Discord",
+00007ff7d72faab6 0066aab6 a   "Update Failure": "
+00007ff7d72faadb 0066aadb a   "Failed to download update": "
+00007ff7d72facd7 0066acd7 a   "HWID reset": "HWID 
+00007ff7d72fad49 0066ad49 a   "Subscription expired on": "
+00007ff7d72fad7b 0066ad7b a   "Subscription valid until": "
+00007ff7d72fadb1 0066adb1 a   "Update": "
+00007ff7d72faf5c 0066af5c a   "failed to init appdata": "
+00007ff7d72faf98 0066af98 a   "checking for updates": "
+00007ff7d72fb08d 0066b08d a   "Authenticating": "
+00007ff7d72fb0b2 0066b0b2 a   "Try without updates": "
+00007ff7d72fb27c 0066b27c a   "failed to check for updates: {}": "
+00007ff7d72fb2bc 0066b2bc a   "failed to parse updates response: {}": "
+00007ff7d72fb48a 0066b48a a   "This is a safe demonstration. Yes continues the task, No reports a decline, and closing this dialog cancels. No product will be launched.": "
+00007ff7d72fb742 0066b742 a   "Enter the 6-digit code from your authenticator app to continue.": "
+00007ff7d72fb8bd 0066b8bd a   "Could not connect. Change server or try again later.": "
+00007ff7d72fba07 0066ba07 a   "No access to authenticator?": "
+00007ff7d72fbb12 0066bb12 a   "Google Authenticator": "Google 
+00007ff7d72fbcee 0066bcee a   "No subscription": "
+00007ff7d72fbd11 0066bd11 a   "Frozen subscription": "
+00007ff7d72fbd3e 0066bd3e a   "Subscription until": "
+00007ff7d72fbd65 0066bd65 a   "Purchase subscription": "
+00007ff7d72fbdb2 0066bdb2 a   "Update from": "
+00007ff7d72fbe24 0066be24 a   "Confirm unfreeze": "
+00007ff7d72fbe4b 0066be4b a   "Confirm subscription freeze": "
+00007ff7d72fbe83 0066be83 a   "Your subscriptions will be frozen until {}.": "
+00007ff7d72fbed7 0066bed7 a   "Freezing applies to all products on this subscription.": "
+00007ff7d72fbf48 0066bf48 a   "Launch access will pause while your subscription is frozen. Your remaining subscription time will be preserved.": "
+00007ff7d72fc00a 0066c00a a   "Freeze": "
+00007ff7d72fc021 0066c021 a   "Subscription freeze is not connected to the backend yet.": "
+00007ff7d72fc091 0066c091 a   "Your subscriptions are frozen until {}.": "
+00007ff7d72fc0e1 0066c0e1 a   "Unfreezing applies to all products on this subscription.": "
+00007ff7d72fc154 0066c154 a   "You can freeze the subscription again after the next eligibility date.": "
+00007ff7d72fc1e4 0066c1e4 a   "Next freeze available from {}.": "
+00007ff7d72fc299 0066c299 a   "Unfreeze": "
+00007ff7d72fc2b2 0066c2b2 a   "Unfreeze ({})": "
+00007ff7d72fc448 0066c448 a   "A device change was detected. This can happen after replacing components or changing your system or computer configuration.": "
+00007ff7d72fc53a 0066c53a a   "To continue, reset your current HWID binding. You can reset it once every 24 hours.": "
+00007ff7d72fc5b8 0066c5b8 a  HWID 
+00007ff7d72fc6f4 0066c6f4 a   "Current session": "
+00007ff7d72fc75e 0066c75e a   "Steam": "Steam",
+00007ff7d72fca31 0066ca31 a   "Freezing pauses all active non-trial subscriptions for 14 days.": "
+00007ff7d72fcab0 0066cab0 a   "Unfreezing resumes all manually frozen subscriptions.": "
+00007ff7d72fcb1d 0066cb1d a   "Freeze availability is determined by your account eligibility.": "
+00007ff7d72fcb96 0066cb96 a   "No active subscription freeze.": "
+00007ff7d72fcbdd 0066cbdd a   "Freeze cooldown has passed.": "
+00007ff7d72fcc1e 0066cc1e a   "Has active subscriptions.": "
+00007ff7d72fcc54 0066cc54 a   "Subscription duration is at least {} days.": "
+00007ff7d72fcca8 0066cca8 a   "No global freeze.": "
+00007ff7d72fcd96 0066cd96 a   "Freeze is unavailable for this account.": "
+00007ff7d72fcfc2 0066cfc2 a   "You already have a lifetime subscription.": "
+00007ff7d72fd00e 0066d00e a   "Your existing subscription lasts longer than this promocode allows.": "
+00007ff7d72fd0dc 0066d0dc a   "This promocode cannot be used with a trial subscription.": "
+00007ff7d72fd1ef 0066d1ef a   "No servers are available. Please try again later.": "
+00007ff7d72fd255 0066d255 a   "The selected server is unavailable. Please choose another server.": "
+00007ff7d72fd4fd 0066d4fd a   "Device verification failed. Please restart the app and sign in again.": "
+00007ff7d72fd583 0066d583 a   "Your session has expired. Please sign in again.": "
+00007ff7d72fd63b 0066d63b a   "Too many active sessions. Please sign out on another device.": "
+00007ff7d72fd6be 0066d6be a   "This verification method is already configured.": "
+00007ff7d72fdcf1 0066dcf1 a   "No active subscriptions are available to freeze.": "
+00007ff7d72fdd4d 0066dd4d a   "Trial subscriptions cannot be frozen.": "
+00007ff7d72fdd98 0066dd98 a   "Your subscription is too short to freeze.": "
+00007ff7d72fddf0 0066ddf0 a   "Please wait before freezing your subscriptions again.": "
+00007ff7d72fde4b 0066de4b a   "Your subscriptions are already frozen.": "
+00007ff7d72fde94 0066de94 a   "Subscription freeze is unavailable during a global freeze.": "
+00007ff7d730a3e0 0067a3e0 a http/1.1
+00007ff7d730fc4c 0067fc4c a https
+00007ff7d730fcbc 0067fcbc a Server
+00007ff7d730fcdc 0067fcdc a Bearer
+00007ff7d730fd10 0067fd10 a http
+00007ff7d730fd60 0067fd60 a login
+00007ff7d73100a8 006800a8 a HTTPS
+00007ff7d7310108 00680108 a HTTP
+00007ff7d73101dc 006801dc a UPDATE
+00007ff7d73103c8 006803c8 a curl/
+00007ff7d73103d4 006803d4 a HTTP/
+00007ff7d7310650 00680650 a https_proxy
+00007ff7d7310670 00680670 a http_proxy
+00007ff7d73106c0 006806c0 a server_list_empty
+00007ff7d73106d8 006806d8 a error_hardware_empty
+00007ff7d7310740 00680740 a invalid URL authority
+00007ff7d7310810 00680810 a error_invalid_country
+00007ff7d7310928 00680928 a Weird server reply
+00007ff7d7310970 00680970 a httponly
+00007ff7d7310b20 00680b20 a HTTP 1.0, assume close after body
+00007ff7d7310b68 00680b68 a error_invalid_currency
+00007ff7d7310c28 00680c28 a http_chunk error, expected 0x0a, seeing 0x%ux
+00007ff7d7310fc8 00680fc8 a using HTTP/1.x
+00007ff7d7311368 00681368 a Clear auth, redirects to port from %u to %u
+00007ff7d73113c0 006813c0 a warning: unsupported value passed to CURLOPT_SOCKS5_AUTH: %u
+00007ff7d7311638 00681638 a FTP: Accepting server connect has timed out
+00007ff7d73117d0 006817d0 a get_server_list
+00007ff7d7311910 00681910 a client reader needs rewind before next request
+00007ff7d73119c8 006819c8 a libcurl lacks IDN support
+00007ff7d7311a08 00681a08 a FTP: The server failed to connect to data port
+00007ff7d7311a50 00681a50 a error_subscription_too_short
+00007ff7d7311a80 00681a80 a Bad login part
+00007ff7d7311cf8 00681cf8 a An invalid CURLU pointer was passed as argument
+00007ff7d7311d70 00681d70 a A libcurl function was given a bad argument
+00007ff7d7311dd0 00681dd0 a connect_client
+00007ff7d7311de0 00681de0 a auth_client
+00007ff7d7311df0 00681df0 a refresh_client
+00007ff7d7311e00 00681e00 a [OUT] PAUSE requested by client
+00007ff7d7311e20 00681e20 a Software\Policies\Microsoft\System\DNSClient
+00007ff7d7311e50 00681e50 a Software\Policies\Microsoft\Windows NT\DNSClient
+00007ff7d7311f20 00681f20 a error_redeem_request_limit
+00007ff7d7311fb8 00681fb8 a Server upgrade does not support multiplex yet, wait
+00007ff7d7312150 00682150 a error_2fa_provider_already_set
+00007ff7d7312170 00682170 a Found pending candidate for reuse and CURLOPT_PIPEWAIT is set
+00007ff7d73122a8 006822a8 a start_product
+00007ff7d7312480 00682480 a error_user_not_exists
+00007ff7d7312498 00682498 a error_code_not_exists
+00007ff7d7312528 00682528 a error_2fa_too_many_attempts
+00007ff7d7312570 00682570 a Clientside Scripts
+00007ff7d7312588 00682588 a Serverside Scripts
+00007ff7d73128e0 006828e0 a client_reset, clear readers
+00007ff7d7312900 00682900 a client start, rewind readers
+00007ff7d73129a0 006829a0 a error_no_active_subscriptions
+00007ff7d7312d20 00682d20 a client returned ERROR on write of %zu bytes
+00007ff7d7312ed8 00682ed8 a http_chunked, chunk start of %lld bytes
+00007ff7d7312fc0 00682fc0 a checking for updates
+00007ff7d7313198 00683198 a ALPN: server accepted %.*s
+00007ff7d7313248 00683248 a  HTTP/%s
+00007ff7d73133e8 006833e8 a ALPN: curl offers %s
+00007ff7d7313560 00683560 a Clear auth, redirects scheme from %s to %s
+00007ff7d7313590 00683590 a Establish HTTP proxy tunnel to %s
+00007ff7d7313680 00683680 a Switched from HTTP to HTTPS due to HSTS => %s
+00007ff7d7313700 00683700 a Negotiate: noauthpersist -> %d, header part: %s
+00007ff7d7313840 00683840 a schannel: failed to read data from server: %s
+00007ff7d7313908 00683908 a schannel: ApplyControlToken failure: %s
+00007ff7d7313b70 00683b70 a CompleteAuthToken failed: %s
+00007ff7d7313c48 00683c48 a curl_sa_addr inet_ntop() failed with errno %d: %s
+00007ff7d7314000 00684000 a Google Authenticator
+00007ff7d7314040 00684040 a http_error
+00007ff7d7314060 00684060 a error_validation_error
+00007ff7d73140f8 006840f8 a RTSP session error
+00007ff7d7314110 00684110 a An authentication function returned an error
+00007ff7d7314198 00684198 a HTTP response code said error
+00007ff7d73141f0 006841f0 a HTTP/3 error
+00007ff7d7314200 00684200 a Error in the HTTP2 framing layer
+00007ff7d7314228 00684228 a Stream error in the HTTP/2 framing layer
+00007ff7d7314270 00684270 a Unrecoverable error in call to nameserver
+00007ff7d73142a0 006842a0 a Could not connect to server
+00007ff7d73142c0 006842c0 a Empty reply from server
+00007ff7d73142d8 006842d8 a Requested range was not delivered by the server
+00007ff7d7314308 00684308 a error_hardware_product_tester
+00007ff7d73143c8 006843c8 a error_wrong_referrer
+00007ff7d7314648 00684648 a error_2fa_select_provider
+00007ff7d7314668 00684668 a error_2fa_invalid_provider
+00007ff7d73146b8 006846b8 a client_reset, will rewind reader
+00007ff7d7314a50 00684a50 a SSPI: could not get auth info
+00007ff7d7314a88 00684a88 a CURLUcode unknown
+00007ff7d7314ae8 00684ae8 a error_reset_cooldown
+00007ff7d7314b00 00684b00 a error_2fa_setup_cooldown
+00007ff7d7314b20 00684b20 a error_code_activation_cooldown
+00007ff7d7314b40 00684b40 a error_freeze_cooldown
+00007ff7d7314b58 00684b58 a error_country_update_cooldown
+00007ff7d7314b78 00684b78 a error_hardware_cooldown
+00007ff7d7314b90 00684b90 a error_credential_change_cooldown
+00007ff7d7314bb8 00684bb8 a error_2fa_code_send_cooldown
+00007ff7d7314d30 00684d30 a error_code_lifetime_less_exist_subscription
+00007ff7d7314d60 00684d60 a error_no_active_subscription
+00007ff7d7314d80 00684d80 a Frozen subscription
+00007ff7d7315000 00685000 a Proxy-authorization
+00007ff7d7315018 00685018 a Authorization
+00007ff7d7315230 00685230 a Subscription expired on
+00007ff7d7315258 00685258 a http_chunked, write %zu body bytes, %lld bytes in chunk remain
+00007ff7d73154b8 006854b8 a error_invalid_token
+00007ff7d73154d0 006854d0 a unknown token
+00007ff7d73154e0 006854e0 a error_forbidden
+00007ff7d73156b8 006856b8 a An unknown option was passed in to libcurl
+00007ff7d7315880 00685880 a schannel: server indicated shutdown in a prior call
+00007ff7d7315970 00685970 a Subscription until
+00007ff7d7315a48 00685a48 a error_internal
+00007ff7d7315a58 00685a58 a error_all_trial
+00007ff7d7315a90 00685a90 a log_error_modal
+00007ff7d7315aa0 00685aa0 a freeze_confirmation_modal
+00007ff7d7315b40 00685b40 a http_chunk, added last, empty chunk
+00007ff7d7315f38 00685f38 a Excessive username length for proxy auth
+00007ff7d7315f68 00685f68 a Excessive password length for proxy auth
+00007ff7d7316180 00686180 a error_device_mismatch
+00007ff7d73161c0 006861c0 a subscription_already_too_long
+00007ff7d7316318 00686318 a ###NavUpdateWindowing
+00007ff7d7316408 00686408 a error_2fa_provider_missing
+00007ff7d7316428 00686428 a access_token_missing
+00007ff7d7316440 00686440 a refresh_token_missing
+00007ff7d73165f8 006865f8 a Unrecognized or bad HTTP Content or Transfer-Encoding
+00007ff7d73166a8 006866a8 a HTTP error before end of send, stop sending
+00007ff7d73166d8 006866d8 a HTTP error before end of send, keep sending
+00007ff7d73169e0 006869e0 a images_unfreeze
+00007ff7d73169f0 006869f0 a Confirm unfreeze
+00007ff7d7316a08 00686a08 a can_freeze
+00007ff7d7316a18 00686a18 a error_no_manual_freeze
+00007ff7d7316a30 00686a30 a error_active_freeze
+00007ff7d7316a48 00686a48 a /api/subscription/freeze
+00007ff7d7316a68 00686a68 a Confirm subscription freeze
+00007ff7d7316a88 00686a88 a images_auth_eye
+00007ff7d7316ae0 00686ae0 a error_global_freeze_active
+00007ff7d7316b90 00686b90 a HTTP/1.0 proxy connection set to keep alive
+00007ff7d7316bc0 00686bc0 a HTTP/1.0 connection set to keep alive
+00007ff7d7316e40 00686e40 a http_chunk, response complete
+00007ff7d7316e60 00686e60 a error_invalid_session_state
+00007ff7d7316e90 00686e90 a schannel: server selected an ALPN protocol too late
+00007ff7d7316ed8 00686ed8 a Failed to download update
+00007ff7d7316ef8 00686ef8 a schannel: disabled automatic use of client certificate
+00007ff7d7316f30 00686f30 a schannel: enabled automatic use of client certificate
+00007ff7d7316f68 00686f68 a SSL: failed retrieving public key from server certificate
+00007ff7d7317078 00687078 a HTTP/1.1 proxy connection set close
+00007ff7d73170a0 006870a0 a invalid_error_response
+00007ff7d73170f0 006870f0 a Unsupported HTTP/1 subversion in response
+00007ff7d7317120 00687120 a Unsupported HTTP version in response
+00007ff7d7317148 00687148 a Unsupported HTTP version (%u.%d) in response
+00007ff7d7317260 00687260 a Unsupported response code in HTTP response
+00007ff7d73172a8 006872a8 a Simulate an HTTP 304 response
+00007ff7d7317770 00687770 a /api/user/me
+00007ff7d7317938 00687938 a NtDeviceIoControlFile
+00007ff7d7317ae0 00687ae0 a selected_server_unavailable
+00007ff7d7317cb0 00687cb0 a HTTP request too large
+00007ff7d7317fd0 00687fd0 a error_2fa_invalid_code
+00007ff7d7317fe8 00687fe8 a error_credential_change_bad_code
+00007ff7d73182b0 006882b0 a error_wrong_password
+00007ff7d7318300 00688300 a images_discord
+00007ff7d7318348 00688348 a Curl_multi_will_close fd=%qd
+00007ff7d7318488 00688488 a error_hardware_trial_period
+00007ff7d7318738 00688738 a pdb_symbols_not_found
+00007ff7d7318750 00688750 a error_2fa_settings_not_found
+00007ff7d7318770 00688770 a error_2fa_setup_not_found
+00007ff7d7318790 00688790 a error_session_not_found
+00007ff7d7318948 00688948 a error_code_activations_end
+00007ff7d7318978 00688978 a error_code_lifetime_end
+00007ff7d7318a68 00688a68 a [SHUTDOWN] update events failed, discarding #%lld
+00007ff7d7318ba0 00688ba0 a refresh_token_invalid
+00007ff7d7318bd8 00688bd8 a error_unauthorized
+00007ff7d7318bf0 00688bf0 a unauthorized
+00007ff7d7318c70 00688c70 a Received HTTP/0.9 when not allowed
+00007ff7d7319048 00689048 a Negotiate auth restarted
+00007ff7d7319068 00689068 a NTLM auth restarted
+00007ff7d7319140 00689140 a error_test_sub_detected
+00007ff7d7319158 00689158 a error_lifetime_sub_detected
+00007ff7d7319250 00689250 a error_code_already_activated
+00007ff7d73192a0 006892a0 a CONNECT tunnel: HTTP/1.%d negotiated
+00007ff7d7319310 00689310 a error_2fa_code_already_used
+00007ff7d7319330 00689330 a Server upgrade cannot be used
+00007ff7d73193c0 006893c0 a error_one_of_params_required
+00007ff7d73193f8 006893f8 a error_2fa_fallback_required
+00007ff7d7319418 00689418 a error_2fa_code_required
+00007ff7d7319430 00689430 a error_device_id_required
+00007ff7d7319470 00689470 a HTTP origin-form required
+00007ff7d7319490 00689490 a SSL Client Certificate required
+00007ff7d7319528 00689528 a error_session_expired
+00007ff7d7319540 00689540 a error_grace_period_expired
+00007ff7d7319560 00689560 a error_email_already_registered
+00007ff7d7319580 00689580 a error_user_email_already_registered
+00007ff7d73195a8 006895a8 a error_user_username_already_registered
+00007ff7d7319750 00689750 a error_hardware_banned
+00007ff7d7319780 00689780 a /api/subscription/freeze/eligibility/detailed
+00007ff7d73197b0 006897b0 a error_session_creation_failed
+00007ff7d73197d0 006897d0 a error_session_validation_failed
+00007ff7d7319800 00689800 a pdb_symbols_fetch_failed
+00007ff7d7319900 00689900 a schannel: server certificate name verification failed
+00007ff7d7319ad8 00689ad8 a error_session_revoked
+00007ff7d7319b60 00689b60 a NTLM-proxy picked AND auth done set, clear picked
+00007ff7d7319b98 00689b98 a NTLM picked AND auth done set, clear picked
+00007ff7d7319bc8 00689bc8 a Login denied
+00007ff7d7319cf0 00689cf0 a auth_session_changed
+00007ff7d7319d08 00689d08 a token_state_changed
+00007ff7d7319db8 00689db8 a error_max_sessions_exceeded
+00007ff7d7319f00 00689f00 a client mime read EOF fail, only %lld/%lld of needed bytes read
+00007ff7d731a0a8 0068a0a8 a curl_ws_send(len=%zu, fragsize=%lld, flags=%x), raw=%d
+00007ff7d731a100 0068a100 a client_read(len=%zu) -> %d, nread=%zu, eos=%d
+00007ff7d731a260 0068a260 a Curl_conn_connect(block=%d) -> %d, done=%d
+00007ff7d731a3b0 0068a3b0 a SOCKS4%s: connecting to HTTP proxy %s port %d
+00007ff7d731a3e0 0068a3e0 a SOCKS5: connecting to HTTP proxy %s port %d
+00007ff7d731a6d8 0068a6d8 a Curl_conn_connect(), filter returned %d
+00007ff7d731a7f0 0068a7f0 a http_chunk, added last chunk with trailers from client -> %d
+00007ff7d731a830 0068a830 a http_chunk, made chunk of %zu bytes -> %d
+00007ff7d731a958 0068a958 a client_write(type=%x, len=%zu) -> %d
+00007ff7d731ab28 0068ab28 a rewind of client reader '%s' failed: %d
+00007ff7d731ac80 0068ac80 a failed to init appdata
+00007ff7d731acf0 0068acf0 a Got HTTP failure 417 while sending data
+00007ff7d731ad90 0068ad90 a error_bad_captcha
+00007ff7d731adb0 0068adb0 a #HttpOnly_
+00007ff7d731aec8 0068aec8 a HTTPS_PROXY
+00007ff7d731af00 0068af00 a HTTP-PROXY
+00007ff7d731af30 0068af30 a SEC_E_NO_AUTHENTICATING_AUTHORITY
+00007ff7d731b1f0 0068b1f0 a HTTPS-CONNECT
+00007ff7d731b3e0 0068b3e0 a schannel: recv returned CURLE_RECV_ERROR
+00007ff7d731b5f0 0068b5f0 a Unrecognized parameter passed via CURLOPT_SSLVERSION
+00007ff7d731b628 0068b628 a Unrecognized parameter value passed via CURLOPT_SSLVERSION
+00007ff7d731b668 0068b668 a CURL_SSLVERSION_MAX incompatible with CURL_SSLVERSION
+00007ff7d731b708 0068b708 a SEC_E_INVALID_TOKEN
+00007ff7d731b778 0068b778 a Forcing HTTP/1.1 for NTLM
+00007ff7d731ba70 0068ba70 a SEC_E_UNSUPPORTED_PREAUTH
+00007ff7d731bce0 0068bce0 a cr_in_read, callback returned CURL_READFUNC_PAUSE
+00007ff7d731bd70 0068bd70 a SEC_E_PKINIT_CLIENT_FAILURE
+00007ff7d731be78 0068be78 a pause buffer not large enough -> CURLE_TOO_LARGE
+00007ff7d731c140 0068c140 a SSL server certificate status verification FAILED
+00007ff7d731c350 0068c350 a No access to authenticator?
+00007ff7d731c460 0068c460 a Authorization:
+00007ff7d731c498 0068c498 a Persistent-Auth:
+00007ff7d731c4f0 0068c4f0 a Proxy-authenticate:
+00007ff7d731c508 0068c508 a WWW-Authenticate:
+00007ff7d731c968 0068c968 a using HTTP/3
+00007ff7d731ca48 0068ca48 a kernel32
+00007ff7d731cab8 0068cab8 a Received 101, Switching to HTTP/2
+00007ff7d731cae0 0068cae0 a Lying server, not serving HTTP/2
+00007ff7d731cb08 0068cb08 a using HTTP/2
+00007ff7d731cd70 0068cd70 a http/1.1
+00007ff7d731cd80 0068cd80 a installing subfilter for HTTP/1.1
+00007ff7d731ce50 0068ce50 a Got HTTP failure 417 while waiting for a 100
+00007ff7d731ce90 0068ce90 a Chunky upload is not supported by HTTP 1.0
+00007ff7d731cf70 0068cf70 a Next freeze available from {}.
+00007ff7d731cf90 0068cf90 a Your subscriptions are frozen until {}.
+00007ff7d731cfb8 0068cfb8 a Your subscriptions will be frozen until {}.
+00007ff7d731d0d0 0068d0d0 a Failed to send SSPI authentication request.
+00007ff7d731d130 0068d130 a Freeze is unavailable for this account.
+00007ff7d731d230 0068d230 a ALPN: server did not agree on a protocol. Uses default.
+00007ff7d731d338 0068d338 a Subscription duration is at least {} days.
+00007ff7d731d390 0068d390 a Has active subscriptions.
+00007ff7d731d468 0068d468 a Undocumented SOCKS5 mode attempted to be used by server.
+00007ff7d731d4a8 0068d4a8 a Couldn't fetch symbols from the server.
+00007ff7d731d4d0 0068d4d0 a Could not connect. Change server or try again later.
+00007ff7d731d508 0068d508 a No servers are available. Please try again later.
+00007ff7d731d5c0 0068d5c0 a Ignoring duplicate digest auth header.
+00007ff7d731d610 0068d610 a Unfreezing applies to all products on this subscription.
+00007ff7d731d650 0068d650 a Freezing applies to all products on this subscription.
+00007ff7d731d688 0068d688 a This promocode cannot be used with a trial subscription.
+00007ff7d731d6c8 0068d6c8 a You already have a lifetime subscription.
+00007ff7d731d710 0068d710 a SOCKS5 server supports GSS-API %s data protection.
+00007ff7d731d8e8 0068d8e8 a Please wait before freezing your subscriptions again.
+00007ff7d731d9f8 0068d9f8 a Your session has expired. Please sign in again.
+00007ff7d731da68 0068da68 a Your subscriptions are already frozen.
+00007ff7d731da90 0068da90 a Trial subscriptions cannot be frozen.
+00007ff7d731dab8 0068dab8 a Failed to receive SSPI authentication token.
+00007ff7d731dae8 0068dae8 a Failed to send SSPI authentication token.
+00007ff7d731dbc0 0068dbc0 a Digest authentication problem, ignoring.
+00007ff7d731dbf0 0068dbf0 a Bearer authentication problem, ignoring.
+00007ff7d731dc20 0068dc20 a Basic authentication problem, ignoring.
+00007ff7d731dc48 0068dc48 a NTLM authentication problem, ignoring.
+00007ff7d731dcd0 0068dcd0 a Your subscription is too short to freeze.
+00007ff7d731dd00 0068dd00 a No active subscriptions are available to freeze.
+00007ff7d731dd38 0068dd38 a No active subscription freeze.
+00007ff7d731dd58 0068dd58 a No global freeze.
+00007ff7d731dd70 0068dd70 a Subscription freeze is unavailable during a global freeze.
+00007ff7d731de48 0068de48 a Failed to receive SSPI authentication response.
+00007ff7d731df98 0068df98 a No authentication method was acceptable.
+00007ff7d731e060 0068e060 a Too many active sessions. Please sign out on another device.
+00007ff7d731e0f0 0068e0f0 a FTP: The server did not accept the PRET command.
+00007ff7d731e218 0068e218 a SOCKS5 GSSAPI per-message authentication is not supported.
+00007ff7d731e2f0 0068e2f0 a Freeze cooldown has passed.
+00007ff7d731e310 0068e310 a This verification method is already configured.
+00007ff7d731e3d8 0068e3d8 a Server accepted %zu bytes of TLS early data.
+00007ff7d731e408 0068e408 a Server rejected TLS early data.
+00007ff7d731e460 0068e460 a SOCKS5 server authenticated user %s with GSS-API.
+00007ff7d731e520 0068e520 a HTTP/1.
+00007ff7d731e610 0068e610 a User was rejected by the SOCKS5 server (%u %u).
+00007ff7d731e670 0068e670 a Invalid SSPI authentication response type (%u %u).
+00007ff7d731e6c8 0068e6c8 a User was rejected by the SOCKS5 server (%d %d).
+00007ff7d731e7d8 0068e7d8 a schannel: server close notification received (close_notify)
+00007ff7d731e818 0068e818 a schannel: server closed abruptly (missing close_notify)
+00007ff7d731e870 0068e870 a D3D11CreateDeviceAndSwapChain (legacy)
+00007ff7d731e8e0 0068e8e0 a ev update fd=%qd, action '%s%s' -> '%s%s' (%d/%d r/w)
+00007ff7d731e918 0068e918 a client side MAX_CONCURRENT_STREAMS reached, skip (%zu)
+00007ff7d731e9a0 0068e9a0 a Version mismatch (from HTTP/%u to HTTP/%u)
+00007ff7d731ea78 0068ea78 a ev update call(fd=%qd, ev=%s%s)
+00007ff7d731efd8 0068efd8 a Server returned nothing (no headers, no data)
+00007ff7d731f0e0 0068f0e0 a Connection closure while negotiating auth (HTTP 1.0?)
+00007ff7d731f258 0068f258 a Couldn't parse CURLOPT_RESOLVE entry '%s'
+00007ff7d731f2c8 0068f2c8 a %s cached session for '%s'
+00007ff7d731f310 0068f310 a %s auth using %s with user '%s'
+00007ff7d731f330 0068f330 a CONNECT: fwd auth header '%s'
+00007ff7d731f350 0068f350 a ALPN: server confirmed to use '%s'
+00007ff7d731fc08 0068fc08 a %sAuthorization: Digest %s
+00007ff7d731fc30 0068fc30 a Authorization: Bearer %s
+00007ff7d731fc50 0068fc50 a %sAuthorization: Negotiate %s
+00007ff7d731fc70 0068fc70 a %sAuthorization: Basic %s
+00007ff7d731fc90 0068fc90 a %sAuthorization: NTLM %s
+00007ff7d731fe60 0068fe60 a %s %s%s%s%s HTTP/1.%d
+00007ff7d7320118 00690118 w .umbrella-icons
+00007ff7d7320ab8 00690ab8 w \Device\Afd
+00007ff7d7320e38 00690e38 w .umbrella-migration-
+00007ff7d7320e68 00690e68 w .umbrella-
+00007ff7d7320e98 00690e98 w --product 
+00007ff7d7321430 00691430 a curl_ws_send() called with smaller 'buflen' than bytes already buffered in previous call, %zu vs %zu
+00007ff7d7321590 00691590 a curl_ws_send(len=%zu, fragsize=%lld, flags=%x, raw=%d) -> %d, %zu
+00007ff7d73215e0 006915e0 a Curl_output_negotiate, no persistent authentication: cleanup existing context
+00007ff7d7321920 00691920 a schannel: CertGetNameString() failed to match connection hostname (%s) against server certificate names
+00007ff7d7321a40 00691a40 a Authorization: %.*s4-HMAC-SHA256 Credential=%s/%s, SignedHeaders=%s, Signature=%s
+00007ff7d7321b40 00691b40 a suppressing chunked transfer encoding on connection using HTTP version 2 or higher
+00007ff7d7322240 00692240 a client read function EOF fail, only %lld/%lld of needed bytes read
+00007ff7d7323060 00693060 a Failed to get a shared pointer from this. The reason is probably that the session object is not managed by a shared pointer, which is required to use this functionality.
+00007ff7d7323300 00693300 a cannot complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+00007ff7d7323390 00693390 a Freezing pauses all active non-trial subscriptions for 14 days.
+00007ff7d73233d0 006933d0 a Your existing subscription lasts longer than this promocode allows.
+00007ff7d7323420 00693420 a To continue, reset your current HWID binding. You can reset it once every 24 hours.
+00007ff7d7323480 00693480 a Unrecognized content encoding type. libcurl understands %s content encodings.
+00007ff7d73234d0 006934d0 a cannot complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+00007ff7d7323560 00693560 a The selected server is unavailable. Please choose another server.
+00007ff7d7323650 00693650 a A device change was detected. This can happen after replacing components or changing your system or computer configuration.
+00007ff7d7323720 00693720 a A requested feature, protocol or option was not found built-in in this libcurl due to a build-time decision.
+00007ff7d73237e0 006937e0 a Device verification failed. Please restart the app and sign in again.
+00007ff7d73238d0 006938d0 a Shutdown send direction error: %d. Broken server? Proceeding as if everything is ok.
+00007ff7d7323a40 00693a40 a Enter the 6-digit code from your authenticator app to continue.
+00007ff7d7323a80 00693a80 a ALPN: asked for '%s' from previous session, but server did not confirm it. Refusing to continue.
+00007ff7d7323af0 00693af0 a ALPN: server selected protocol contains NUL. Refusing to continue.
+00007ff7d7323b40 00693b40 a ALPN: asked for '%s' from previous session, but server selected '%.*s'. Refusing to continue.
+00007ff7d7323be0 00693be0 a HTTP server does not seem to support byte ranges. Cannot resume.
+00007ff7d7323de0 00693de0 a schannel: Windows version is old and may not be able to connect to some servers due to lack of SNI, algorithms, etc.
+00007ff7d7324360 00694360 a curl_easy_perform cannot be executed if the CURL handle is used in a MultiPerform.
+00007ff7d73243c0 006943c0 a # Your HSTS cache. https://curl.se/docs/hsts.html
+00007ff7d73243f2 006943f2 a # This file was generated by libcurl! Edit at your own risk.
+00007ff7d7324430 00694430 a # Your alt-svc cache. https://curl.se/docs/alt-svc.html
+00007ff7d7324468 00694468 a # This file was generated by libcurl! Edit at your own risk.
+00007ff7d73244b0 006944b0 a # Netscape HTTP Cookie File
+00007ff7d73244cc 006944cc a # https://curl.se/docs/http-cookies.html
+00007ff7d73244f5 006944f5 a # This file was generated by libcurl! Edit at your own risk.
+00007ff7d73bf050 0072f050 a https://uc.zone
+00007ff7d73bf264 0072f264 a AuthcAMDenti
+00007ff7d73c44e8 007344e8 a KERNEL32.dll
+00007ff7d73c4796 00734796 a D3D11CreateDeviceAndSwapChain
